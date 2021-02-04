@@ -1,4 +1,4 @@
-# Survey-template-for-categorization-of-videos
+# Survey template for categorization of videos
 This is a small VBA based data labelling application for categorizing videos/iamge/text
 
 
