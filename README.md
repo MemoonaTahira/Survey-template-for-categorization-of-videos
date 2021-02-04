@@ -4,7 +4,7 @@ This is a small VBA based data labelling application for categorizing videos/iam
 
 - Overview: 
 
-     - A powerpoint slide that ask observer to enter his name to identify him/her later.
+     - Starting powerpoint slide that asks observer to enter his name to identify him/her later.
      - Next slide that guides the observer what to do with a set of instructions. 
      - A start button to start with the labelling
      - With one video on each slide with 3 possible lables, one of which the observer has to pick. By default, observer has to pick or he won't be allowed to move ahead. 
