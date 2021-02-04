@@ -22,7 +22,7 @@ Step 3: Create an blank excel sheet named "responses.xlsx" Make sure your excel 
 
 Step 4: Start the slideshow. Use forward arrow/ mouse click to move forward.
 
-Step 5: If the observer exits slideshow in the middle of the labelling, close the power point presentation before resatrting the process. Also close the excel sheet from task manager as it will still be active in the background. The previous labels will however be retained in the excel sheet.
+Step 5: If the observer exits slideshow in the middle of the labelling, close the excel sheet from task manager as it will still be active in the background. The previous labels will however be retained in the excel sheet. TODO: automatically detect ESC and call destroyer. 
 
 
 
