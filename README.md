@@ -16,7 +16,7 @@ Step 2: Enable your Developer tools to edit the code.
 
 Step 2: Add your video to the slides. You can add image or text or whatever else you want labelled as well.  Duplicate slides to add more videos.
 
-Step 3: Right click on the label you want to edit (e.g. to change DC,DF or SP to your own labels), click on property sheet and modify the caption. Also, double clicking on the label which will take you to its code where you can look around if yuo wish to modify it further. 
+Step 3: Right click on the label you want to edit (e.g. to change DC,DF or SP to your own labels), click on property sheet and modify the caption. Also, double clicking on the label will take you to its code where you can look around if you wish to modify it further. 
 
 Step 3: Create an blank excel sheet named "responses.xlsx" Make sure your excel file to store the results is on the path (i.e. in the same folder as the slides) and CLOSED before running the slideshow. The VBA code will automatically call it up.
 
