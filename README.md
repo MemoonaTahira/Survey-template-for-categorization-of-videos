@@ -9,6 +9,7 @@ Sample screenshot:
 
 This VBA application was developed to categorize the videos of [CrowdFix](https://github.com/MemoonaTahira/CrowdFix) dataset into three categories: Sparse, Dense and Free Flowing, Dense Congested.
 
+
 ## Workflow: 
 
 1. Start button that will open an excel file to store the responses and open an user from that will asks the observer to enter his name, age bracket and gender. You can add whatever data you need for your analysis here. Double click on any field you wish to change and you will see the backend VBA code. 
@@ -19,6 +20,7 @@ This VBA application was developed to categorize the videos of [CrowdFix](https:
 has to pick one or he won't be allowed to move ahead. Instead he will see a meassge telling him to: "Choose the type of crowd before proceeding" 
 
 4. An end button that will save the updated excel file with the new labels this observer has picked, and safely close the excel file.
+
 
 ## Developer options: 
 
