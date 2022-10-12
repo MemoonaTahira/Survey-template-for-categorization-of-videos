@@ -3,7 +3,7 @@
 
 This is a small VBA based data labelling application for categorizing videos (or images) via PowerPoint.
 
-Screenshot of a sample slide: 
+Sample screenshot:
 
 <img src = "Sample_survey.png" width =60% height = 60%>
 
@@ -36,7 +36,7 @@ has to pick one or he won't be allowed to move ahead. Instead he will see a meas
 
 7. If the observer exits slideshow in the middle of the labelling, close the excel sheet from task manager as it will still be active in the background. The previous labels will however be retained in the excel sheet. 
 
-*TODO:* automatically detect ESC (when someone exits slideshow in the middle) and call destroyer to stop excel sheet instance automatically. 
+**TODO:** automatically detect ESC (when someone exits slideshow in the middle) and call destroyer to stop excel sheet instance automatically. 
 
 
 
