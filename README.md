@@ -1,13 +1,13 @@
 # Video Labelling VBA Application
 
 
-This is a small VBA based data labelling application for categorizing videos (or images) via PowerPoint.
+This is a VBA based data labelling application for categorizing videos (or images) via PowerPoint.
 
 Sample screenshot:
 
 <img src = "Sample_survey.png" width =60% height = 60%>
 
-This VBA application was developed to categorize the videos of [CrowdFix](https://github.com/MemoonaTahira/CrowdFix) dataset into three categories: Sparse, Dense and Free Flowing, Dense Congested.
+This VBA application was developed to categorize the videos of [CrowdFix](https://github.com/MemoonaTahira/CrowdFix) dataset into three categories: Sparse, Dense and Free Flowing, and Dense Congested.
 
 
 ## Workflow: 
